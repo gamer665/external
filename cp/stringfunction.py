@@ -1,0 +1,6 @@
+str = input("Enter the string :")
+print("Length of String is :",len(str))
+print("String in Lowercase :",str.lower())
+print("String in Uppercase :",str.upper())
+print("String in Captilizecase :",str.capitalize())
+print("String in Title :",str.title())
